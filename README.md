@@ -1,2 +1,2 @@
 # NPCSRemover
-A optimized script that will remove all peds immediately
+An optimized FiveM script that will remove all peds immediately
